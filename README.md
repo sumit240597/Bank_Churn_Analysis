@@ -1,6 +1,6 @@
 # Bank_Churn_Analysis
 
-About dataset :- 
+# About dataset :- 
 
 RowNumber—corresponds to the record (row) number and has no effect on the output. 
 CustomerId—contains random values and has no effect on customer leaving the bank. 
@@ -19,14 +19,14 @@ Complain—customer has complaint or not.
 Satisfaction Score—Score provided by the customer for their complaint resolution. 
 Card Type—type of card hold by the customer. Points Earned—the points earned by the customer for using credit card.
 
-Steps :-
+# Steps :-
 1.Data preparation- Cleaning, formatting and reshaping the data.
 2.Data Modeling- Create quarries to model the data for visualization.
 3.Dax Analysis- Create Dax measure for better insights.
 4.Data Visualization
 
 
-Key insights:-
+# Key insights:-
 -With the help of DAX create a age group to understand which group of age . 21-40 age group having most numbers of customers i.e. 6.3k and 41-60 age group having high number of exit customers 39.65%.
 -According to the customers exits data 899 are males and 1139 are females.
 -With the help of DAX function created Account balance group, according to the account balance group customers who had balance between 1-10k their exit % is 100%
